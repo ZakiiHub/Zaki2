@@ -2,10 +2,10 @@
 #https://t.me/ddgksf2021
 
 # > 流媒体emby-终点站服务器
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
+#DOMAIN,pub1.emby.wtf
+#DOMAIN,pub2.emby.wtf
+#DOMAIN,pub3.emby.wtf
+#DOMAIN,pub4.emby.wtf
 
 # > 流媒体emby-TLS服务器
 DOMAIN,e1.tls.ink
