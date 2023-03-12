@@ -1,7 +1,16 @@
 #更新时间2023-01-09
 #https://t.me/ddgksf2021
 
-DOMAIN,catfishemby.club
+# > 流媒体卷毛鼠服务器
+DOMAIN,emby.wtf
+DOMAIN,pub1back.emby.wtf
+DOMAIN,pub2back.emby.wtf
+DOMAIN,pub3back.emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub4.emby.wtf
+
 # > 流媒体emby-TLS服务器
 DOMAIN,e1.tls.ink
 
@@ -89,14 +98,6 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-# > 流媒体卷毛鼠服务器
-DOMAIN,emby.wtf
-DOMAIN,pub1back.emby.wtf
-DOMAIN,pub2back.emby.wtf
-DOMAIN,pub3back.emby.wtf
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
 
 # > 流媒体熊猫服务器
 DOMAIN,embyclub.com
