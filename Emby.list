@@ -1,6 +1,9 @@
 #更新时间2023-01-09
 #https://t.me/ddgksf2021
 
+# > Bluesea服务器
+DIRECT,Bluesea.ddns.me
+
 # > 终点站服务器
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
