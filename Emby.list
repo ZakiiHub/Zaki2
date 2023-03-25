@@ -2,8 +2,7 @@
 #https://t.me/ddgksf2021
 
 # > Bluesea服务器
-Host,Bluesea.ddns.me,reject
-
+HOST, Bluesea.ddns.me, REJECT
 # > 终点站服务器
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
