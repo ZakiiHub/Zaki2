@@ -1,0 +1,16 @@
+# > TLS直连
+host,e1c.tls.ink,direct
+
+# > TLS流量
+host,e1i.tls.ink,direct
+
+# > Misakaf VIP服务器
+host,embyvip.misakaf.org,direct
+
+# > Misakaf服务器
+host,emby.misakaf.org,direct
+
+# > Jellyfin服务器
+host,ws1.amazing910.top,direct
+
+
