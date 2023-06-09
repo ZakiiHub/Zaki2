@@ -1,21 +1,21 @@
 # > TLS直连
-host,e1c.tls.ink.direct
+host,e1c.tls.ink,direct
 
 # > TLS流量
-host,e1i.tls.ink.direct
+host,e1i.tls.ink,direct
 
 # > TLS代理
 DOMAIN,e1.tls.ink
 
 # > Misakaf VIP服务器
-host,embyvip.misakaf.org.direct
+host,embyvip.misakaf.org,direct
 
 # > Misakaf 主线路服务器
-host,emby.misakaf.org.direct
+host,emby.misakaf.org,direct
 DOMAIN,cdn.misakaf.org
 
 # > Jellyfin服务器
-host,ws1.amazing910.top.direct
+host,ws1.amazing910.top,direct
 
 # > TreeDiagram服务器
 DOMAIN,789.123456.al
