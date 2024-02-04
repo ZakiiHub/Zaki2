@@ -12,3 +12,8 @@ host,emby.misakaf.org,direct
 
 # > Jellyfin服务器
 host,ws1.amazing910.top,direct
+
+# > gugu服务器
+host,main.gugumedia.link,direct
+host,pro.gugumedia.link,direct
+host,front.gugumedia.link,direct
