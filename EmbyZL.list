@@ -17,3 +17,6 @@ host,ws1.amazing910.top,direct
 host,main.gugumedia.link,direct
 host,pro.gugumedia.link,direct
 host,front.gugumedia.link,direct
+
+# > lyrebirdemby服务器
+host,direct.lyrebirdemby.com,direct
