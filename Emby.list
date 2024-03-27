@@ -26,7 +26,7 @@ DOMAIN,pub4.emby.wtf
 DOMAIN,public.emby.ws
 
 # > Nmemby服务器
-DOMAIN,film.ohhhh.org.wtf
+DOMAIN,film.ohhhh.org
 
 # > lyrebirdemby服务器
-DOMAIN,cdn.lyrebirdemby.com.wtf
+DOMAIN,cdn.lyrebirdemby.com
