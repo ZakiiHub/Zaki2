@@ -14,9 +14,8 @@ host,emby.misakaf.org,direct
 host,ws1.amazing910.top,direct
 
 # > gugu服务器
-host,main.gugumedia.link,direct
-host,pro.gugumedia.link,direct
-host,front.gugumedia.link,direct
+host,http://pro.gugu.media,direct
+host,http://v6.gugu.media,direct
 host,gu.iuii.cc,direct
 host,main.gugu.media,direct
 
