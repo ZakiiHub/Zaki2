@@ -1,26 +1,26 @@
 # > TLS直连
-host,e1c.tls.ink,direct
+host,e1c.tls.ink,DIRECT
 
 # > TLS流量
-host,e1i.tls.ink,direct
+host,e1i.tls.ink,DIRECT
 
 # > Misakaf VIP服务器
-host,embyvip.misakaf.org,direct
+host,embyvip.misakaf.org,DIRECT
 
 # > Misakaf服务器
-host,emby.misakaf.org,direct
+host,emby.misakaf.org,DIRECT
 
 # > Jellyfin服务器
-host,ws1.amazing910.top,direct
+host,ws1.amazing910.top,DIRECT
 
 # > gugu服务器
-host,pro.gugu.media,direct
-host,v6.gugu.media,direct
-host,gu.iuii.cc,direct
-host,main.gugu.media,direct
+host,pro.gugu.media,DIRECT
+host,v6.gugu.media,DIRECT
+host,gu.iuii.cc,dDIRECT
+host,main.gugu.media,DIRECT
 
 # > micu服务器
-host,tv.micu.hk,direct
+host,tv.micu.hk,DIRECT
 
 # > lyrebirdemby服务器
-#host,direct.lyrebirdemby.com,direct
+#host,direct.lyrebirdemby.com,DIRECT
