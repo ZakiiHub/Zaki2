@@ -16,7 +16,7 @@ host,ws1.amazing910.top,DIRECT
 # > gugu服务器
 host,pro.gugu.media,DIRECT
 host,v6.gugu.media,DIRECT
-host,gu.iuii.cc,dDIRECT
+host,gu.iuii.cc,DIRECT
 host,main.gugu.media,DIRECT
 
 # > micu服务器
