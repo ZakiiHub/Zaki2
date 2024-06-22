@@ -14,11 +14,9 @@ DOMAIN,emby.misakaf.org,DIRECT
 DOMAIN,ws1.amazing910.top,DIRECT
 
 # > gugu服务器
-DOMAIN,pro.gugu.media,DIRECT
+DOMAIN,main.gugumedia.site,DIRECT
 DOMAIN,v6.gugu.media,DIRECT
-DOMAIN,gu.iuii.cc,DIRECT
-DOMAIN,main.gugu.media,DIRECT
-DOMAIN,test.gugumedia.site,DIRECT
+
 
 # > micu服务器
 DOMAIN,tv.micu.hk,DIRECT
