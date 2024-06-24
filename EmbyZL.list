@@ -1,3 +1,9 @@
+# > 终点站直连
+DOMAIN,pub1.emby.wtf,DIRECT
+DOMAIN,pub2.emby.wtf,DIRECT
+DOMAIN,pub3.emby.wtf,DIRECT
+
+# > 直连
 # > TLS直连
 DOMAIN,e1c.tls.ink,DIRECT
 
