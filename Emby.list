@@ -29,7 +29,7 @@ DOMAIN,public.emby.ws
 DOMAIN,film.ohhhh.org
 
 # > lyrebirdemby服务器
-DOMAIN,cdn.lyrebirdemby.com
+#DOMAIN,cdn.lyrebirdemby.com
 
 # > 飞跃彩虹服务器
 DOMAIN,581658.best
