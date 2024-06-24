@@ -3,7 +3,9 @@ DOMAIN,pub1.emby.wtf,DIRECT
 DOMAIN,pub2.emby.wtf,DIRECT
 DOMAIN,pub3.emby.wtf,DIRECT
 
-# > 直连
+# > lyrebirdemby服务器
+DOMAIN,cdn.lyrebirdemby.com,DIRECT
+
 # > TLS直连
 DOMAIN,e1c.tls.ink,DIRECT
 
