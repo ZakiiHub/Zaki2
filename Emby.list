@@ -18,10 +18,10 @@ DOMAIN,stream4.misakaf.org
 DOMAIN,789.123456.al
 
 # > 终点站服务器
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
+#DOMAIN,pub1.emby.wtf
+#DOMAIN,pub2.emby.wtf
+#DOMAIN,pub3.emby.wtf
+
 
 DOMAIN,public.emby.ws
 
