@@ -18,8 +18,6 @@ DOMAIN,embyvip.misakaf.org,DIRECT
 # > Misakaf服务器
 DOMAIN,emby.misakaf.org,DIRECT
 
-# > Jellyfin服务器
-DOMAIN,ws1.amazing910.top,DIRECT
 
 # > gugu服务器
 DOMAIN,main.gugumedia.site,DIRECT
@@ -30,7 +28,7 @@ DOMAIN,smartcdn.gugumedia.site,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
 
 # > lyrebirdemby服务器
-#DOMAIN,direct.lyrebirdemby.com,DIRECT
+DOMAIN,direct.lyrebirdemby.com,DIRECT
 
 # > 飞跃彩虹服务器
 DOMAIN,7777777.buzz,DIRECT
