@@ -5,8 +5,12 @@ DOMAIN,e1.tls.ink
 DOMAIN,tanhuatv.site
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz
-# > Misakaf服务器
 
+# > 黑丝服务器
+DOMAIN,h1.i109.com
+DOMAIN,h2.i109.com
+
+# > Misakaf服务器
 DOMAIN,cdn.misakaf.org
 DOMAIN,push-kr.misakaf.org
 DOMAIN,porn.aca.best
