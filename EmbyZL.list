@@ -5,29 +5,29 @@
 
 # > 飞跃地平线直连
 #大陆线路1：
-DOMAIN,dpx1.1110111.top
+DOMAIN,dpx1.1110111.top,DIRECT
 #大陆线路2：
-DOMAIN,dpx2.1110111.top
+DOMAIN,dpx2.1110111.top,DIRECT
 #大陆线路3：
-dpx3.1110111.top
+dpx3.1110111.top,DIRECT
 大陆线路6：
-DOMAIN,dpx6.123456.buzz
+DOMAIN,dpx6.123456.buzz,DIRECT
 #大陆线路7：
-DOMAIN,dpx7.123456.buzz
+DOMAIN,dpx7.123456.buzz,DIRECT
 #大陆线路8：
-DOMAIN,dpx8.123456.buzz
+DOMAIN,dpx8.123456.buzz,DIRECT
 #大陆线路9：
-DOMAIN,dpx9.123456.buzz
+DOMAIN,dpx9.123456.buzz,DIRECT
 #大陆线路10：
-DOMAIN,dpx10.123456.buzz
+DOMAIN,dpx10.123456.buzz,DIRECT
 #浙江线路1：
-DOMAIN,0570.dpxemby.xyz
+DOMAIN,0570.dpxemby.xyz,DIRECT
 #浙江线路2：
-DOMAIN,0570.123456.buzz
+DOMAIN,0570.123456.buzz,DIRECT
 #海外线路1：
-DOMAIN,123456.buzz
+DOMAIN,123456.buzz,DIRECT
 #ipv6线路:
-DOMAIN,ipv6.dpxemby.xyz
+DOMAIN,ipv6.dpxemby.xyz,DIRECT
 
 # > lyrebirdemby服务器
 DOMAIN,cdn.lyrebirdemby.com,DIRECT
