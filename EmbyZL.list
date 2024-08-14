@@ -52,8 +52,7 @@ DOMAIN,emby.misakaf.org,DIRECT
 # > gugu服务器
 DOMAIN,main.gugumedia.site,DIRECT
 DOMAIN,v6.gugu.media,DIRECT
-DOMAIN,smartcdn.gugumedia.site,DIRECT
-DOMAIN,daisy.215602.xyz,DIRECT
+DOMAIN,node1.guguemby.site,DIRECT
 
 # > micu服务器
 DOMAIN,tv.micu.hk,DIRECT
