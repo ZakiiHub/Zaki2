@@ -27,7 +27,7 @@ DOMAIN,node1.guguemby.site,DIRECT
 
 # > micu服务器
 DOMAIN,tv.micu.hk,DIRECT
-
+DOMAIN,tv1.micu.hk,DIRECT
 # > 飞跃彩虹服务器
 DOMAIN,581658.best,DIRECT
 DOMAIN,7777777.buzz,DIRECT
