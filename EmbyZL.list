@@ -26,7 +26,7 @@ DOMAIN,v6.gugu.media,DIRECT
 DOMAIN,node1.guguemby.site,DIRECT
 
 # > micu服务器
-DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,micu.hk,DIRECT
 
 # > 飞跃彩虹服务器
 DOMAIN,581658.best,DIRECT
