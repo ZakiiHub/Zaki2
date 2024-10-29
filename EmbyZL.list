@@ -31,10 +31,10 @@ DOMAIN,emby.misakaf.org,DIRECT
 
 
 # > gugu服务器
-DOMAIN,main.gugumedia.site,DIRECT
-DOMAIN,v6.gugu.media,DIRECT
 DOMAIN,node1.guguemby.site,DIRECT
-
+DOMAIN,v6.gugu.media,DIRECT
+DOMAIN,node2.guguemby.site,DIRECT
+DOMAIN,node3.guguemby.site,DIRECT
 # > micu服务器
 DOMAIN-SUFFIX,micu.hk,DIRECT
 
