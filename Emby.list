@@ -12,15 +12,8 @@ DOMAIN,h1.i109.com
 DOMAIN,h2.i109.com
 
 # > Misakaf服务器
-DOMAIN,cdn.misakaf.org
-DOMAIN,push-kr.misakaf.org
-DOMAIN,porn.aca.best
-DOMAIN,emby.aca.best
-DOMAIN,102.223.180.108
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
+DOMAIN,aca.misakaf.org
+
 # > TreeDiagram服务器
 DOMAIN,789.123456.al
 
