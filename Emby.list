@@ -7,9 +7,7 @@ DOMAIN,www.tanhuatv.site
 DOMAIN,emby3.mcjoker.xyz
 # > AWA影视
 DOMAIN,emby.awatv.de
-# > 黑丝服务器
-DOMAIN,h1.i109.com
-DOMAIN,h2.i109.com
+
 
 # > Misakaf服务器
 DOMAIN,aca.misakaf.org
@@ -27,8 +25,6 @@ DOMAIN,pub3cf.emby.wtf
 DOMAIN,pub1.term.wtf
 DOMAIN,pub2.term.wtf
 DOMAIN,pub3.term.wtf
-# > Nmemby服务器
-DOMAIN,film.ohhhh.org
 
 # > lyrebirdemby服务器
 #DOMAIN,cdn.lyrebirdemby.com
