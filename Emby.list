@@ -9,7 +9,7 @@ DOMAIN,emby3.mcjoker.xyz
 DOMAIN,emby.awatv.de
 # > 收束世界线
 
-DOMAIN,tv.worldline.space
+#DOMAIN,tv.worldline.space
 
 # > Misakaf服务器
 DOMAIN,aca.misakaf.org
