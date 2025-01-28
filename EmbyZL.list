@@ -7,6 +7,10 @@ DOMAIN,pub3.emby.wtf,DIRECT
 #DOMAIN,pub2.term.wtf,DIRECT
 #DOMAIN,pub3.term.wtf,DIRECT
 
+# > Nanflix
+DOMAIN,us.nanflix.net,DIRECT
+
+
 # > Temby
 DOMAIN,temby856.285286.xyz,DIRECT
 
