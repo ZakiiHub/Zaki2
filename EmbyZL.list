@@ -10,6 +10,8 @@ DOMAIN,pub3.emby.wtf,DIRECT
 # > Nanflix
 DOMAIN,us.nanflix.net,DIRECT
 
+# > 月饼
+DOMAIN,emby.my:443,DIRECT
 
 # > Temby
 DOMAIN,temby856.285286.xyz,DIRECT
