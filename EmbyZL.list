@@ -41,7 +41,7 @@ DOMAIN,embymv.link,DIRECT
 
 # > lyrebirdemby服务器
 DOMAIN,cdn.lyrebirdemby.com,DIRECT
-DOMAIN,188.172.228.65/22,DIRECT
+IP-CIDR,188.172.228.65/22,DIRECT
 
 
 # > Misakaf VIP服务器
