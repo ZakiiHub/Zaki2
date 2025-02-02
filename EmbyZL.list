@@ -11,6 +11,8 @@ DOMAIN,pub3.emby.wtf,DIRECT
 DOMAIN,us.nanflix.net,DIRECT
 
 # > 月饼
+DOMAIN,a.emby.my,DIRECT
+DOMAIN,b.emby.my,DIRECT
 DOMAIN,emby.my,DIRECT
 DOMAIN,shanghai.emby.my,DIRECT
 
