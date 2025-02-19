@@ -11,7 +11,7 @@ DOMAIN,pub3.emby.wtf,DIRECT
 DOMAIN,beebi.org,DIRECT
 
 # > 垃圾服
-DOMAIN,45.142.176.135,DIRECT
+IP-CIDR,45.142.176.135/22,DIRECT
 
 # > Nanflix
 DOMAIN,us.nanflix.net,DIRECT
