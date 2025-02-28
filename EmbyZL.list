@@ -6,6 +6,9 @@ DOMAIN,pub3.emby.wtf,DIRECT
 #DOMAIN,pub1.term.wtf,DIRECT
 #DOMAIN,pub2.term.wtf,DIRECT
 #DOMAIN,pub3.term.wtf,DIRECT
+# > Lily
+DOMAIN,c.lilyemby.my,DIRECT
+
 
 # > 比比
 DOMAIN,beebi.org,DIRECT
