@@ -59,11 +59,7 @@ DOMAIN,cdn.lyrebirdemby.com,DIRECT
 IP-CIDR,188.172.228.65/32,DIRECT
 
 
-# > Misakaf VIP服务器
-DOMAIN,embyvip.misakaf.org,DIRECT
 
-# > Misakaf服务器
-#DOMAIN,aca.misakaf.org,DIRECT
 
 
 # > gugu服务器
@@ -75,9 +71,8 @@ DOMAIN,node3.guguemby.site,DIRECT
 DOMAIN-SUFFIX,micu.hk,DIRECT
 
 # > 飞跃彩虹服务器
-DOMAIN,581658.best,DIRECT
-DOMAIN,7777777.buzz,DIRECT
-IP-CIDR,193.122.114.13/32,DIRECT
+DOMAIN,yhemby.top,DIRECT
+
 
 # > 叔服服务器
 DOMAIN,jz.mcjoker.xyz,DIRECT
