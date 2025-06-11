@@ -15,11 +15,9 @@ DOMAIN,music.makifx.com,DIRECT
 # > 比比
 DOMAIN,beebi.org,DIRECT
 
-# > 垃圾服
-IP-CIDR,45.142.176.135/22,DIRECT
 
-# > Nanflix
-DOMAIN,us.nanflix.net,DIRECT
+
+
 
 # > 月饼
 DOMAIN,a.emby.my,DIRECT
