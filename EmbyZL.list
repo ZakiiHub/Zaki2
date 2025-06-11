@@ -29,11 +29,8 @@ DOMAIN,shanghai.emby.my,DIRECT
 DOMAIN,hksgyr.emby.my,DIRECT
 DOMAIN,jp3rg7.emby.my,DIRECT
 DOMAIN,uhebs.emby.my,DIRECT
-# > Temby
-#DOMAIN,temby856.285286.xyz,DIRECT
 
-# > Ask
-DOMAIN,emby.711.lol,DIRECT
+
 
 # > 探花TV
 #DOMAIN,www.tanhuatv.site,DIRECT
@@ -48,8 +45,6 @@ DOMAIN,embymv.top,DIRECT
 # > 桃子公益服
 DOMAIN,embymv.link,DIRECT
 
-# > AWA影视
-#DOMAIN,emby.awatv.de,DIRECT
 
 
 
