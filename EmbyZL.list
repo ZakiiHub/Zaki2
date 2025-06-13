@@ -12,8 +12,7 @@ DOMAIN,c.lilyemby.my,DIRECT
 # > 音海拾贝音乐服
 DOMAIN,music.makifx.com,DIRECT
 
-# > 比比
-DOMAIN,beebi.org,DIRECT
+
 
 
 
@@ -34,10 +33,11 @@ DOMAIN,uhebs.emby.my,DIRECT
 #DOMAIN,www.tanhuatv.site,DIRECT
 
 # > 见手青
-DOMAIN,jsq.mooguu.xyz,DIRECT
+DOMAIN,jsq.vban.xyz,DIRECT
 
 # > 收束世界线
 DOMAIN,tv2.worldline.space,DIRECT
+
 # > 桃子私服
 DOMAIN,embymv.top,DIRECT
 # > 桃子公益服
