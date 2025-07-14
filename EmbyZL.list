@@ -6,8 +6,7 @@
 #DOMAIN,pub1.term.wtf,DIRECT
 #DOMAIN,pub2.term.wtf,DIRECT
 #DOMAIN,pub3.term.wtf,DIRECT
-# > Lily
-DOMAIN,c.lilyemby.my,DIRECT
+
 
 # > 音海拾贝音乐服
 DOMAIN,yinhai.aiinyue.com,DIRECT
@@ -33,8 +32,6 @@ DOMAIN,uhebs.emby.my,DIRECT
 # > 见手青
 DOMAIN,jsq.vban.xyz,DIRECT
 
-# > 收束世界线
-DOMAIN,tv2.worldline.space,DIRECT
 
 # > 桃子私服
 DOMAIN,embymv.top,DIRECT
