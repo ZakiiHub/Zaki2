@@ -18,7 +18,7 @@ DOMAIN,yinhai.aiinyue.com,DIRECT
 
 
 # > 月饼
-DOMAIN,mobai.sbs,DIRECT
+DOMAIN-SUFFIX,mobai.sbs,DIRECT
 
 
 DOMAIN,h6d45.emby.my,DIRECT
