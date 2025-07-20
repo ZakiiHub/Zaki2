@@ -10,7 +10,8 @@ DOMAIN,emby3.mcjoker.xyz
 # > Temby
 DOMAIN,temby856.285286.xyz
 
-
+# > SNTP Media Lite
+DOMAIN,lite.cn2gias.uk
 
 # > 终点站服务器
 DOMAIN,pub1.emby.wtf
