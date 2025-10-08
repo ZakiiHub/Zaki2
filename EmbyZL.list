@@ -50,8 +50,8 @@ DOMAIN,embymv.link,DIRECT
 DOMAIN,cdn.lyrebirdemby.com,DIRECT
 IP-CIDR,188.172.228.65/32,DIRECT
 DOMAIN,cdn.2580852.xyz,DIRECT
-
-
+DOMAIN,vip1.lyrebirdemby.com,DIRECT
+DOMAIN,vip2.lyrebirdemby.com,DIRECT
 
 
 # > gugu服务器
