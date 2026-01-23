@@ -10,6 +10,8 @@
 # > OKemby
 DOMAIN-SUFFIX,okemby.org,DIRECT
 
+# > Faemby
+DOMAIN-SUFFIX,faemby.wwcgrn.cn,DIRECT
 
 # > Alpha听书
 DOMAIN,abs2.204cloud.com,DIRECT
