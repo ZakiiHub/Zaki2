@@ -1,11 +1,5 @@
 # > 终点站直连
-#DOMAIN,pub1.emby.wtf,DIRECT
-#DOMAIN,pub2.emby.wtf,DIRECT
-#DOMAIN,pub3.emby.wtf,DIRECT
-
-#DOMAIN,pub1.term.wtf,DIRECT
-#DOMAIN,pub2.term.wtf,DIRECT
-#DOMAIN,pub3.term.wtf,DIRECT
+DOMAIN,c.emby.wtf,DIRECT
 
 # > OKemby
 DOMAIN-SUFFIX,okemby.org,DIRECT
