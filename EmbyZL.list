@@ -1,6 +1,10 @@
 # > 终点站直连
 DOMAIN,c.emby.wtf,DIRECT
 
+# > 稳健115
+DOMAIN-SUFFIX,115.wenjian.de,DIRECT
+
+
 # > OKemby
 DOMAIN-SUFFIX,okemby.org,DIRECT
 
