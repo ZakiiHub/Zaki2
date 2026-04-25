@@ -3,6 +3,10 @@ DOMAIN,c.emby.wtf,DIRECT
 
 # > 稳健115
 DOMAIN-SUFFIX,115.wenjian.de,DIRECT
+DOMAIN-SUFFIX,wenjiantest.902541.xyz,DIRECT
+DOMAIN-SUFFIX,wenjianpro.902541.xyz,DIRECT
+DOMAIN-SUFFIX,test.qingfu.de,DIRECT
+
 
 
 # > OKemby
