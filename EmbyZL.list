@@ -1,5 +1,5 @@
 # > 终点站直连
-DOMAIN,c.emby.wtf,DIRECT
+#DOMAIN,c.emby.wtf,DIRECT
 
 # > 稳健115
 DOMAIN-SUFFIX,115.wenjian.de,DIRECT
