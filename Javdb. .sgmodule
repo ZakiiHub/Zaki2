@@ -1,8 +1,0 @@
-#!name=JavDB VIP解锁
-#!desc=由 ddgksf2013 编写的脚本，自制 Egern/Surge 兼容模块。
-
-[Script]
-JavDB_VIP = type=http-response,pattern=^https?:\/\/api\.javdb\.(com|app)\/api\/,requires-body=1,script-path=https://ddgksf2013.top/scripts/javdb.vip.js
-
-[MITM]
-hostname = %append% *.javdb.com, *.javdb.app
