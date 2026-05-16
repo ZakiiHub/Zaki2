@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,test.qingfu.de,DIRECT
 
 # > 臻影
 DOMAIN-SUFFIX,emby.kingemby.xyz,DIRECT
-DOMAIN-SUFFIX,fd1.kingemby.xyz/fd,DIRECT
+
 DOMAIN-SUFFIX,fd.kingemby.xyz,DIRECT
 
 # > guaiemby
