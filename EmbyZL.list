@@ -1,6 +1,9 @@
 # > 终点站直连
 #DOMAIN,c.emby.wtf,DIRECT
 
+# > 夏天Foam
+DOMAIN-SUFFIX,cf.maodu.xyz,DIRECT
+
 # > 稳健115
 DOMAIN-SUFFIX,115.wenjian.de,DIRECT
 DOMAIN-SUFFIX,wenjiantest.902541.xyz,DIRECT
