@@ -1,6 +1,10 @@
 # > 终点站直连
 #DOMAIN,c.emby.wtf,DIRECT
 
+# > 飞跃媒体库
+DOMAIN-SUFFIX,cf.sfcj.org,DIRECT
+
+
 # > 夏天Foam
 DOMAIN-SUFFIX,cf.maodu.xyz,DIRECT
 
